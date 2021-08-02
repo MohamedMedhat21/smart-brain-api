@@ -1,9 +1,16 @@
-# smart-brain-api
-face recognition brain app Backend
+# Smart brain Face Recognition Backend
 
-### `npm install`
+## Installation
 
-### `npm start`
+```bash
+# Clone the repo
+$ git clone https://github.com/MohamedMedhat21/smart-brain-api.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Install dependencies
+$ npm install
+```
+## Getting Started
+
+```bash
+$ npm start
+```
